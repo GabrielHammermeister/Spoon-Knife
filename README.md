@@ -1,4 +1,4 @@
-### Well hello there!
+### Test forking a project
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
